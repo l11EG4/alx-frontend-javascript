@@ -1,4 +1,4 @@
-/* MADE by MEGA*/
+/* MADE by MEGA */
 export default class Airport {
   constructor(name, code) {
     this._name = name;
